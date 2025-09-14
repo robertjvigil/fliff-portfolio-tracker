@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Apple Inc.",
+    "symbol": "AAPL",
+    "type": "stock",
+    "currentPrice": 175.43,
+    "dailyChangePercent": 2.34
+  },
+  {
+    "id": 2,
+    "name": "Microsoft Corporation",
+    "symbol": "MSFT",
+    "type": "stock",
+    "currentPrice": 378.85,
+    "dailyChangePercent": 1.87
+  },
+  {
+    "id": 3,
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "type": "crypto",
+    "currentPrice": 43250.00,
+    "dailyChangePercent": -1.23
+  },
+  {
+    "id": 4,
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "type": "crypto",
+    "currentPrice": 2650.75,
+    "dailyChangePercent": 0.45
+  },
+  {
+    "id": 5,
+    "name": "Tesla Inc.",
+    "symbol": "TSLA",
+    "type": "stock",
+    "currentPrice": 248.92,
+    "dailyChangePercent": -2.15
+  },
+  {
+    "id": 6,
+    "name": "Amazon.com Inc.",
+    "symbol": "AMZN",
+    "type": "stock",
+    "currentPrice": 145.67,
+    "dailyChangePercent": 1.56
+  },
+  {
+    "id": 7,
+    "name": "Google (Alphabet)",
+    "symbol": "GOOGL",
+    "type": "stock",
+    "currentPrice": 142.89,
+    "dailyChangePercent": 0.78
+  },
+  {
+    "id": 8,
+    "name": "Meta Platforms",
+    "symbol": "META",
+    "type": "stock",
+    "currentPrice": 312.45,
+    "dailyChangePercent": 3.21
+  },
+  {
+    "id": 9,
+    "name": "Netflix Inc.",
+    "symbol": "NFLX",
+    "type": "stock",
+    "currentPrice": 485.23,
+    "dailyChangePercent": -0.89
+  },
+  {
+    "id": 10,
+    "name": "NVIDIA Corporation",
+    "symbol": "NVDA",
+    "type": "stock",
+    "currentPrice": 875.34,
+    "dailyChangePercent": 4.56
+  }
+]
